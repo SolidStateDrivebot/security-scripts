@@ -1,0 +1,8 @@
+# Windows Security Scripts
+
+Requirements:
+- Python 3.x
+- Windows OS
+- PowerShell 5.0+
+
+No external Python packages required - uses only standard library.
